@@ -1,0 +1,53 @@
+body{
+    font-family: "Raleway", sans-serif;
+}
+
+body{
+    font-family: "Raleway", sans-serif;
+}
+
+
+
+#table{
+    border-collapse: collapse;
+    width: 100%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    
+}
+
+
+#table td{
+    border: 2px solid #df7575;
+    padding: 10px;
+}
+
+#table tr:nth-child(even){
+    background-color: #ebc7c7;
+}
+
+.col1{
+    width:100%;
+}
+
+.col2{
+   width: 60%;
+}
+
+#refresh{
+    border: 5px solid #df7575;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ 
+   
+}
+#addContact{
+    border: 5px solid #df7575;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#button{
+    text-decoration: #df7575;
+}
+
+#homeLink{
+    border: 5px solid #ebc7c7; 
+}

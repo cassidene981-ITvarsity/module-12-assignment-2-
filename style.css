@@ -1,0 +1,37 @@
+body{
+    background-color: #df7575;
+    text-align: center;
+    font-size-adjust: initial;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+button{
+    font-display: bold ;
+    appearance: auto;
+    font-stretch:expanded;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+#submitApiKey{
+    border: 2px solid #df7575;
+    padding: 10px;
+}
+
+@media (min-width: 1200px) {
+    .feature-heading {
+      margin-top: 10rem;
+    }
+  }
+  
+  @media (max-width: 540px) {
+      .carouselImg {
+          display: none;
+      }
+      
+      .team {
+          margin-top: 2rem;
+      }
+  }
+
+
+
